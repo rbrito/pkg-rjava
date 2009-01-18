@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+# 							-*- makefile -*-
+# debian/rules file for the Debian/GNU Linux r-cran-rjava package
+# Copyright 2005 - 2008 by Dirk Eddelbuettel <edd@debian.org>
+
+include /usr/share/R/debian/r-cran.mk
+

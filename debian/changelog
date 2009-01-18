@@ -1,0 +1,20 @@
+rjava (0.6-1-2) unstable; urgency=low
+
+  * debian/copyright: Corrected as per suggestion by the ftpmasters.
+							(Closes: #510021)
+  
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 18 Jan 2009 16:17:01 -0600
+
+rjava (0.6-1-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 30 Dec 2008 17:00:41 -0600
+
+rjava (0.6-0-1) unstable; urgency=low
+
+  * Initial Debian package				(Closes: #510021)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sun, 28 Dec 2008 11:29:10 -0600
+
+
