@@ -1,3 +1,9 @@
+rjava (0.6-2-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 26 Jan 2009 16:33:53 -0600
+
 rjava (0.6-1-2) unstable; urgency=low
 
   * debian/copyright: Corrected as per suggestion by the ftpmasters.
