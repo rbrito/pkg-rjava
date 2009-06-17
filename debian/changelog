@@ -1,3 +1,14 @@
+rjava (0.6-3-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Changed Section: to new section 'gnu-r'
+  
+  * debian/control: Set (Build-)Depends: to current R version
+  * debian/control: Set Standards-Version: to current version 3.8.1
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 16 Jun 2009 21:03:52 -0500
+
 rjava (0.6-2-1) unstable; urgency=low
 
   * New upstream release
