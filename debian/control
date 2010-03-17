@@ -3,7 +3,7 @@ Section: gnu-r
 Priority: optional
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Build-Depends: debhelper (>= 7.0.0), r-base-dev (>= 2.10.1), cdbs, openjdk-6-jdk, automake
-Standards-Version: 3.8.3
+Standards-Version: 3.8.4
 Homepage: http://www.rforge.net/rJava
 
 Package: r-cran-rjava

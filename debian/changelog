@@ -1,3 +1,11 @@
+rjava (0.8-3-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Standards-Version: to current version 
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Wed, 17 Mar 2010 12:46:42 -0500
+
 rjava (0.8-2-1) unstable; urgency=low
 
   * New upstream release
