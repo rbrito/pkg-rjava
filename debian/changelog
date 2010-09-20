@@ -1,3 +1,9 @@
+rjava (0.8-6-1) unstable; urgency=low
+
+  * New upstream release
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Mon, 20 Sep 2010 08:58:12 -0500
+
 rjava (0.8-5-1) unstable; urgency=low
 
   * New upstream release
