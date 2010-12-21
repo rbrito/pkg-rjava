@@ -2,13 +2,13 @@ Source: rjava
 Section: gnu-r
 Priority: optional
 Maintainer: Dirk Eddelbuettel <edd@debian.org>
-Build-Depends: debhelper (>= 7.0.0), r-base-dev (>= 2.12.0), cdbs, openjdk-6-jdk, automake
+Build-Depends: debhelper (>= 7.0.0), r-base-dev (>= 2.12.1), cdbs, openjdk-6-jdk, automake
 Standards-Version: 3.9.1
 Homepage: http://www.rforge.net/rJava
 
 Package: r-cran-rjava
 Architecture: any
-Depends: r-base-core (>= 2.12.0), openjdk-6-jre, ${shlibs:Depends}, ${misc:Depends}
+Depends: r-base-core (>= 2.12.1), openjdk-6-jre, ${shlibs:Depends}, ${misc:Depends}
 Description: GNU R low-level interface to Java 
  This package provide a low-level interface from GNU R to Java VM very much 
  like .C/.Call and friends. Allows creation of objects, calling methods and 

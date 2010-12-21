@@ -1,3 +1,11 @@
+rjava (0.8-8-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set (Build-)Depends: to current R version
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Tue, 21 Dec 2010 12:54:19 -0600
+
 rjava (0.8-7-1) unstable; urgency=low
 
   * New upstream release
