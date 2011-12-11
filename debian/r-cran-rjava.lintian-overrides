@@ -1,1 +1,4 @@
 r-cran-rjava: image-file-in-usr-lib usr/lib/R/site-library/rJava/javadoc/resources/inherit.gif
+r-cran-rjava: jar-not-in-usr-share usr/lib/R/site-library/rJava/jri/JRI.jar
+r-cran-rjava: jar-not-in-usr-share usr/lib/R/site-library/rJava/jri/JRIEngine.jar
+r-cran-rjava: jar-not-in-usr-share usr/lib/R/site-library/rJava/jri/REngine.jar
