@@ -1,3 +1,18 @@
+rjava (0.9-4-1) unstable; urgency=low
+
+  * New upstream release
+
+  * debian/control: Set Build-Depends: to current R version
+  * debian/control: Change Depends to ${R:Depends}
+  * debian/control: Set Standards-Version: to current version 
+  
+  * debian/control: Switch Build-Depends: to default-jdk (with same
+    architecture exclusion list as R itself)
+
+  * (Re-)building with R 3.0.0 (beta)
+
+ -- Dirk Eddelbuettel <edd@debian.org>  Sat, 30 Mar 2013 10:14:39 -0500
+
 rjava (0.9-3-1) unstable; urgency=low
 
   * New upstream release
