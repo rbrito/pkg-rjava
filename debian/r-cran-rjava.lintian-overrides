@@ -2,3 +2,7 @@ r-cran-rjava: image-file-in-usr-lib usr/lib/R/site-library/rJava/javadoc/resourc
 r-cran-rjava: jar-not-in-usr-share usr/lib/R/site-library/rJava/jri/JRI.jar
 r-cran-rjava: jar-not-in-usr-share usr/lib/R/site-library/rJava/jri/JRIEngine.jar
 r-cran-rjava: jar-not-in-usr-share usr/lib/R/site-library/rJava/jri/REngine.jar
+r-cran-rjava: image-file-in-usr-lib usr/lib/R/site-library/rJava/javadoc/resources/background.gif
+r-cran-rjava: image-file-in-usr-lib usr/lib/R/site-library/rJava/javadoc/resources/tab.gif
+r-cran-rjava: image-file-in-usr-lib usr/lib/R/site-library/rJava/javadoc/resources/titlebar.gif
+r-cran-rjava: image-file-in-usr-lib usr/lib/R/site-library/rJava/javadoc/resources/titlebar_end.gif
