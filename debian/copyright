@@ -2,8 +2,8 @@ This is the Debian GNU/Linux r-cran-rserve package of rJava, a
 low-level interface from GNU R to Java written by Simon Urbanek.
 
 This package was created by Dirk Eddelbuettel <edd@debian.org>.
-The sources were downloaded from 
-	http://www.rosuda.org/Rserve/		
+The sources were downloaded from
+	http://www.rosuda.org/Rserve/
 and are also available at every mirror of CRAN:
 	http://cran.r-project.org
 
@@ -23,11 +23,11 @@ For reference, the upstream DESCRIPTION file is included below:
   Author: Simon Urbanek <simon.urbanek@r-project.org>
   Maintainer: Simon Urbanek <simon.urbanek@r-project.org>
   Depends: R (>= 2.5.0), methods
-  Description: Low-level interface to Java VM very much like .C/.Call and 
+  Description: Low-level interface to Java VM very much like .C/.Call and
     friends. Allows creation of objects, calling methods and accessing fields.
   License: GPL version 2
   URL: http://www.rforge.net/rJava/
-   
+
 The package also contains the jri interface by Simon Urbanek which has
 the following header in the README
 
@@ -40,14 +40,10 @@ the following header in the README
    modify it under the terms of the GNU Lesser General Public
    License as published by the Free Software Foundation;
    version 2.1 of the License.
-  
+
    This library is distributed in the hope that it will be useful,
    but WITHOUT ANY WARRANTY; without even the implied warranty of
    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
    Lesser General Public License for more details (LGPL.txt).
 
   [...]
- 
-
-
-
