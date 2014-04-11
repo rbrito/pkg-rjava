@@ -5,7 +5,7 @@ Maintainer: Dirk Eddelbuettel <edd@debian.org>
 Build-Depends:
  automake,
  cdbs,
- debhelper (>= 7.0.0),
+ debhelper (>= 9),
  default-jdk [!arm !hppa !kfreebsd-i386 !kfreebsd-amd64 !hurd-i386 !mips !mipsel],
  r-base-dev (>= 3.0.2)
 Standards-Version: 3.9.5
