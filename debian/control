@@ -14,7 +14,7 @@ Homepage: http://www.rforge.net/rJava
 Package: r-cran-rjava
 Architecture: any
 Depends:
- openjdk-6-jre,
+ openjdk-7-jre | default-jre,
  ${R:Depends},
  ${misc:Depends},
  ${shlibs:Depends}
