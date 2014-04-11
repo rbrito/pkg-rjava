@@ -24,3 +24,10 @@ jri/src/org_rosuda_JRI_Rengine.h
 jri/src/rjava.o
 src/Makevars
 src/config.h
+#
+# Debian specific files
+#
+debian/files
+debian/r-cran-rjava.debhelper.log
+debian/r-cran-rjava.substvars
+debian/r-cran-rjava/
